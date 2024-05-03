@@ -16,3 +16,5 @@
   url_launcher
   
   flutter_secure_storage
+
+  Также добавлен apk в release папке
